@@ -20,7 +20,7 @@ sudo npm install
 ## 运行说明
 ```bash
 cd myapp
-DEBUG=forum:* npm start
+DEBUG=myapp:* npm start
 ```
 
 ## 版本信息
