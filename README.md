@@ -11,6 +11,18 @@
 * 版本控制：Github
 * MongoDB+Mongoose
 
+## 安装说明
+```bash
+mkdir myapp && cd myapp
+git clone https://github.com/NewBeeJet/forum-demo.git
+sudo npm install
+```
+## 运行说明
+```bash
+cd myapp
+DEBUG=forum:* npm start
+```
+
 ## 版本信息
 * body-parser （1.13.2）
 * cookie-parser （1.3.5）
